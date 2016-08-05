@@ -1,0 +1,9 @@
+Y:\github\2016-6-14\ConsoleRPGGame\WhiteQZ\XWeb\bin\Debug\XWeb.exe
+Y:\github\2016-6-14\ConsoleRPGGame\WhiteQZ\XWeb\bin\Debug\XWeb.pdb
+Y:\github\2016-6-14\ConsoleRPGGame\WhiteQZ\XWeb\obj\Debug\ResolveAssemblyReference.cache
+Y:\github\2016-6-14\ConsoleRPGGame\WhiteQZ\XWeb\obj\Debug\XWeb.Form1.resources
+Y:\github\2016-6-14\ConsoleRPGGame\WhiteQZ\XWeb\obj\Debug\XWeb.Properties.Resources.resources
+Y:\github\2016-6-14\ConsoleRPGGame\WhiteQZ\XWeb\obj\Debug\XWeb.csproj.GenerateResource.Cache
+Y:\github\2016-6-14\ConsoleRPGGame\WhiteQZ\XWeb\obj\Debug\XWeb.exe.licenses
+Y:\github\2016-6-14\ConsoleRPGGame\WhiteQZ\XWeb\obj\Debug\XWeb.exe
+Y:\github\2016-6-14\ConsoleRPGGame\WhiteQZ\XWeb\obj\Debug\XWeb.pdb

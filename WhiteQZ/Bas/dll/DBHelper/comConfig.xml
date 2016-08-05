@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+ <!--
+ // 摘 要: 结合DbHelper帮助类，对各种数据库提供程序的配置文件,可支持Odbc、OleDb、OracleClient、SqlClient、SqlServerCe等多种数据库提供程序
+ -->
+ <configuration>
+   <appSettings>
+     <!--一般有如下一些配置名称 要先安装好相应的数据库提供程序
+     System.Data.Odbc
+     System.Data.OleDb
+     System.Data.OracleClient
+     System.Data.SqlClient
+     System.Data.SqlServerCe.3.5
+     iAnywhere.Data.SQLAnywhere
+     -->
+     <!--配置数据库提供程序名称 Key名称不要更改-->
+     <add key="DbProviderName" value="System.Data.SqlClient"/>
+ 
+     <!--配置数据库链接字段串值 Key名称不要更改-->
+     <add key="DbConnectionString" value="Data Source=localhostSQLEXPRESS;Initial Catalog=ydyTest;Integrated Security=SSPI"/>
+   </appSettings>
+ </configuration>

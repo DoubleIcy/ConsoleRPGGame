@@ -1,0 +1,11 @@
+Y:\github\2016-6-14\ConsoleRPGGame\Test\ImgForm\bin\Debug\ImgForm.exe
+Y:\github\2016-6-14\ConsoleRPGGame\Test\ImgForm\bin\Debug\ImgForm.pdb
+Y:\github\2016-6-14\ConsoleRPGGame\Test\ImgForm\obj\Debug\ResolveAssemblyReference.cache
+Y:\github\2016-6-14\ConsoleRPGGame\Test\ImgForm\obj\Debug\ImgForm.Properties.Resources.resources
+Y:\github\2016-6-14\ConsoleRPGGame\Test\ImgForm\obj\Debug\ImgForm.csproj.GenerateResource.Cache
+Y:\github\2016-6-14\ConsoleRPGGame\Test\ImgForm\obj\Debug\ImgForm.exe
+Y:\github\2016-6-14\ConsoleRPGGame\Test\ImgForm\obj\Debug\ImgForm.pdb
+Y:\github\2016-6-14\ConsoleRPGGame\Test\ImgForm\obj\Debug\ImgForm.frmQryPatVisitDTSheet.resources
+Y:\github\2016-6-14\ConsoleRPGGame\Test\ImgForm\obj\Debug\ImgForm.Form1.resources
+Y:\github\2016-6-14\ConsoleRPGGame\Test\ImgForm\obj\Debug\ImgForm.exe.licenses
+Y:\github\2016-6-14\ConsoleRPGGame\Test\ImgForm\obj\Debug\ImgForm.Form2.resources

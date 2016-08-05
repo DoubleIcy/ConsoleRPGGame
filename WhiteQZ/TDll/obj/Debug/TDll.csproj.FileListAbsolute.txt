@@ -1,0 +1,5 @@
+Y:\github\2016-6-14\ConsoleRPGGame\WhiteQZ\TDll\bin\Debug\TDll.dll
+Y:\github\2016-6-14\ConsoleRPGGame\WhiteQZ\TDll\bin\Debug\TDll.pdb
+Y:\github\2016-6-14\ConsoleRPGGame\WhiteQZ\TDll\obj\Debug\ResolveAssemblyReference.cache
+Y:\github\2016-6-14\ConsoleRPGGame\WhiteQZ\TDll\obj\Debug\TDll.dll
+Y:\github\2016-6-14\ConsoleRPGGame\WhiteQZ\TDll\obj\Debug\TDll.pdb

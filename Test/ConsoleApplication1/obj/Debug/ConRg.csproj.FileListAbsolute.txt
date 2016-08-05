@@ -1,0 +1,5 @@
+Y:\github\2016-6-14\ConsoleRPGGame\Test\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+Y:\github\2016-6-14\ConsoleRPGGame\Test\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+Y:\github\2016-6-14\ConsoleRPGGame\Test\ConsoleApplication1\obj\Debug\ResolveAssemblyReference.cache
+Y:\github\2016-6-14\ConsoleRPGGame\Test\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+Y:\github\2016-6-14\ConsoleRPGGame\Test\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

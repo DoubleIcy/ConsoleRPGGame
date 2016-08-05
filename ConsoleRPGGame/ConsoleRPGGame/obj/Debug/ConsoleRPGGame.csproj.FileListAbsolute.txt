@@ -1,0 +1,6 @@
+Y:\github\2016-6-14\ConsoleRPGGame\ConsoleRPGGame\ConsoleRPGGame\bin\Debug\db.sdf
+Y:\github\2016-6-14\ConsoleRPGGame\ConsoleRPGGame\ConsoleRPGGame\bin\Debug\ConsoleRPGGame.exe
+Y:\github\2016-6-14\ConsoleRPGGame\ConsoleRPGGame\ConsoleRPGGame\bin\Debug\ConsoleRPGGame.pdb
+Y:\github\2016-6-14\ConsoleRPGGame\ConsoleRPGGame\ConsoleRPGGame\obj\Debug\ResolveAssemblyReference.cache
+Y:\github\2016-6-14\ConsoleRPGGame\ConsoleRPGGame\ConsoleRPGGame\obj\Debug\ConsoleRPGGame.exe
+Y:\github\2016-6-14\ConsoleRPGGame\ConsoleRPGGame\ConsoleRPGGame\obj\Debug\ConsoleRPGGame.pdb

@@ -1,0 +1,10 @@
+Y:\github\2016-6-14\ConsoleRPGGame\ConsoleRPGGame\libPaste\bin\Debug\libPaste.exe
+Y:\github\2016-6-14\ConsoleRPGGame\ConsoleRPGGame\libPaste\bin\Debug\libPaste.pdb
+Y:\github\2016-6-14\ConsoleRPGGame\ConsoleRPGGame\libPaste\obj\Debug\ResolveAssemblyReference.cache
+Y:\github\2016-6-14\ConsoleRPGGame\ConsoleRPGGame\libPaste\obj\Debug\libPaste.Properties.Resources.resources
+Y:\github\2016-6-14\ConsoleRPGGame\ConsoleRPGGame\libPaste\obj\Debug\libPaste.Form1Cut.resources
+Y:\github\2016-6-14\ConsoleRPGGame\ConsoleRPGGame\libPaste\obj\Debug\libPaste.csproj.GenerateResource.Cache
+Y:\github\2016-6-14\ConsoleRPGGame\ConsoleRPGGame\libPaste\obj\Debug\libPaste.exe
+Y:\github\2016-6-14\ConsoleRPGGame\ConsoleRPGGame\libPaste\obj\Debug\libPaste.pdb
+Y:\github\2016-6-14\ConsoleRPGGame\ConsoleRPGGame\libPaste\obj\Debug\libPaste.FormLine.resources
+Y:\github\2016-6-14\ConsoleRPGGame\ConsoleRPGGame\libPaste\obj\Debug\libPaste.exe.licenses

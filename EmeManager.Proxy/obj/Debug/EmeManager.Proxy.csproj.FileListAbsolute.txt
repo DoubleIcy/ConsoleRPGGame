@@ -1,0 +1,6 @@
+E:\Proj\JZ\EmeManager\EmeManager.Proxy\bin\Debug\app.config
+E:\Proj\JZ\EmeManager\EmeManager.Proxy\bin\Debug\EmeManager.Proxy.dll.config
+E:\Proj\JZ\EmeManager\EmeManager.Proxy\bin\Debug\EmeManager.Proxy.dll
+E:\Proj\JZ\EmeManager\EmeManager.Proxy\bin\Debug\EmeManager.Proxy.pdb
+E:\Proj\JZ\EmeManager\EmeManager.Proxy\obj\Debug\EmeManager.Proxy.dll
+E:\Proj\JZ\EmeManager\EmeManager.Proxy\obj\Debug\EmeManager.Proxy.pdb
