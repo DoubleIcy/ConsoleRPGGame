@@ -6,9 +6,9 @@ using System.Reflection;
 using System.Data;
 using System.Configuration;
 
-namespace EmeManager
+namespace JProxy
 {
-    public class DllDoProxy:IDoProxy
+    public class DllDoProxy:Interface_Proxy
     {
         #region IDoProxy 成员
         private static readonly string AssemblyString = ConfigurationManager.AppSettings["AssemblyName"].ToString();

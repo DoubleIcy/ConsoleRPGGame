@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoProxy", "DoProxy\DoProxy.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDll", "TDll\TDll.csproj", "{3BB19229-EE67-42F0-A163-EC978A3BE57D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmeManager.Proxy", "..\EmeManager.Proxy\EmeManager.Proxy.csproj", "{C9AD79DF-2834-485E-9B94-6387126477FE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JProxy", "..\EmeManager.Proxy\JProxy.csproj", "{C9AD79DF-2834-485E-9B94-6387126477FE}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "dllProxy", "dllProxy", "{B4C02562-8E3C-45F6-A4BF-AA4A5ED77422}"
 EndProject

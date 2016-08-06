@@ -3,7 +3,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProductVersion>8.0.30703</ProductVersion>
+    <ProductVersion>9.0.30729</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>{C9AD79DF-2834-485E-9B94-6387126477FE}</ProjectGuid>
     <OutputType>Library</OutputType>
@@ -44,48 +44,15 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DllDoProxy.cs" />
-    <Compile Include="IDoProxy.cs" />
+    <Compile Include="Interface\Interface_Proxy.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="RaykingProxyClient.cs" />
-    <Compile Include="Service References\RaykingEmeService\Reference.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>Reference.svcmap</DependentUpon>
-    </Compile>
-    <Compile Include="WCFDoProxy.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <WCFMetadata Include="Service References\" />
+    <Compile Include="Proxy.cs" />
+    <None Include="WCFDoProxy.cs.ini" />
   </ItemGroup>
   <ItemGroup>
     <None Include="app.config">
       <SubType>Designer</SubType>
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </None>
-    <None Include="Service References\RaykingEmeService\Arrays.xsd">
-      <SubType>Designer</SubType>
-    </None>
-    <None Include="Service References\RaykingEmeService\service.wsdl" />
-    <None Include="Service References\RaykingEmeService\service.xsd">
-      <SubType>Designer</SubType>
-    </None>
-    <None Include="Service References\RaykingEmeService\service1.xsd">
-      <SubType>Designer</SubType>
-    </None>
-  </ItemGroup>
-  <ItemGroup>
-    <WCFMetadataStorage Include="Service References\RaykingEmeService\" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Service References\RaykingEmeService\configuration91.svcinfo" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Service References\RaykingEmeService\configuration.svcinfo" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Service References\RaykingEmeService\Reference.svcmap">
-      <Generator>WCF Proxy Generator</Generator>
-      <LastGenOutput>Reference.cs</LastGenOutput>
     </None>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

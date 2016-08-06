@@ -1,9 +1,0 @@
-Y:\github\2016-6-14\ConsoleRPGGame\WhiteQZ\WhiteQZ\bin\Debug\WhiteQZ.exe
-Y:\github\2016-6-14\ConsoleRPGGame\WhiteQZ\WhiteQZ\bin\Debug\WhiteQZ.pdb
-Y:\github\2016-6-14\ConsoleRPGGame\WhiteQZ\WhiteQZ\obj\Debug\ResolveAssemblyReference.cache
-Y:\github\2016-6-14\ConsoleRPGGame\WhiteQZ\WhiteQZ\obj\Debug\WhiteQZ.exe
-Y:\github\2016-6-14\ConsoleRPGGame\WhiteQZ\WhiteQZ\obj\Debug\WhiteQZ.pdb
-Y:\github\2016-6-14\ConsoleRPGGame\WhiteQZ\WhiteQZ\bin\Debug\DoProxy.dll
-Y:\github\2016-6-14\ConsoleRPGGame\WhiteQZ\WhiteQZ\bin\Debug\DoProxy.pdb
-Y:\github\2016-6-14\ConsoleRPGGame\WhiteQZ\WhiteQZ\bin\Debug\TDll.dll
-Y:\github\2016-6-14\ConsoleRPGGame\WhiteQZ\WhiteQZ\bin\Debug\TDll.pdb

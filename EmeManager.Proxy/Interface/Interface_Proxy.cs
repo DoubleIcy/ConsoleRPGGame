@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Data;
 
-namespace EmeManager
+namespace JProxy
 {
-    interface IDoProxy
+    interface Interface_Proxy
     {
         object DoProxy(string ClassName, string MethodName, object[] args);
         DataTable DoProxyDataTable(string ClassName, string MethodName, object[] args);

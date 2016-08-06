@@ -9,23 +9,23 @@ using System.Runtime.Serialization;
 using System.Reflection;
 
 
-namespace EmeManager
+namespace JProxy
 {
-    public class RaykingProxyClient
+    public class Proxy
     {
         //处理方式：0，为正常使用 1 WCF 
 
-        private static readonly string DealType = System.Configuration.ConfigurationManager.AppSettings["DealType"].ToString();
-        private static IDoProxy DoProxyClient = null;
+        private static string DealType = System.Configuration.ConfigurationManager.AppSettings["ConfigDeal"].ToString();
+        private static Interface_Proxy DoProxyClient = null;
 
-        private static IDoProxy GetDoProxy()
+        private static Interface_Proxy GetDoProxy()
         {
             if (DoProxyClient == null)
             {
-                string path = "EmeManager.Proxy";//项目的Assembly选项名称
+                string path = "JProxy";//项目的Assembly选项名称
             
-                string name = "EmeManager." + (DealType == "0" ? "DllDoProxy" : "WCFDoProxy"); //类的名字
-                DoProxyClient = (IDoProxy)Assembly.Load(path).CreateInstance(name);
+                string name = "JProxy." + (DealType == "0" ? "DllDoProxy" : "WCFDoProxy"); //类的名字
+                DoProxyClient = (Interface_Proxy)Assembly.Load(path).CreateInstance(name);
             }
             return DoProxyClient;
         }
